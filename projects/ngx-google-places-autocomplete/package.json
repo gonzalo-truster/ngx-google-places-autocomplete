@@ -1,5 +1,5 @@
 {
-  "name": "@barkhub/ngx-google-places-autocomplete",
+  "name": "ngx-google-places-autocomplete",
   "publishConfig": {
     "access": "public"
   },
@@ -8,7 +8,7 @@
     "autocomplete",
     "typescript",
     "google places",
-    "angular 16",
+    "angular 17",
     "angular"
   ],
   "contributors": [
@@ -18,12 +18,15 @@
     },
     {
       "name": "Breyon Gunn"
+    },
+    {
+      "name": "Gonzalo Ortiz"
     }
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
-    "@angular/common": "^16.2.4",
-    "@angular/core": "^16.2.4"
+    "@angular/common": "^17.0.9",
+    "@angular/core": "^17.0.9"
   },
   "dependencies": {
     "tslib": "^2.3.0"
