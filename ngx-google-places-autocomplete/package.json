@@ -1,5 +1,5 @@
 {
-  "name": "@gtrust/ngx-google-places-autocomplete",
+  "name": "ngx-google-places-autocomplete",
   "publishConfig": {
     "access": "public"
   },
